@@ -1,0 +1,14 @@
+{
+  "name": "hat",
+  "version": "0.0.1",
+  "description": "CryptoHats ERC721 contract",
+  "keywords": [
+    "cryptohats",
+    "crypto",
+    "blockchain",
+    "erc721",
+    "nft",
+    "cryptocollectionable"
+  ],
+  "license": "MIT"
+}
