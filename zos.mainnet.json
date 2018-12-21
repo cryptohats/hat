@@ -1,0 +1,21 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "openzeppelin-eth/StandaloneERC721": [
+      {
+        "address": "0xe9a17561c6d9e37a156e3250583b3a06bd2727ca",
+        "version": "2.0.2",
+        "implementation": "0x376fd70d288b14aee31a9302ee0fb9d05bf00672"
+      }
+    ]
+  },
+  "zosversion": "2",
+  "version": "0.0.1",
+  "dependencies": {
+    "openzeppelin-eth": {
+      "package": "0x778dddf23ec1b5cb18394c6c110480caadb3b0f6",
+      "version": "2.0.2"
+    }
+  }
+}
