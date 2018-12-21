@@ -1,6 +1,9 @@
 {
   "zosversion": "2",
   "name": "hat",
-  "version": "0.1.0",
-  "contracts": {}
+  "version": "0.0.1",
+  "contracts": {},
+  "dependencies": {
+    "openzeppelin-eth": "^2.0.2"
+  }
 }

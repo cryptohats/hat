@@ -10,5 +10,10 @@
     "nft",
     "cryptocollectionable"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "openzeppelin-eth": "^2.0.2",
+    "truffle": "^5.0.0",
+    "truffle-hdwallet-provider": "^1.0.1"
+  }
 }
